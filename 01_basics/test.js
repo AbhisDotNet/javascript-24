@@ -1,1 +1,0 @@
-console.log("year 24 js ")
